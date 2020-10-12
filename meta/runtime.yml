@@ -193,6 +193,7 @@ action_groups:
   - lambda_info
   - lambda_policy
   - lightsail
+  - lightsail_static_ip
   - rds
   - rds_instance
   - rds_instance_info
